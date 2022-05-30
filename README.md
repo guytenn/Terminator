@@ -1,9 +1,6 @@
 # Terminator (TermPG)
 #### Open-source codebase for Terminator Policy Gradient (TermPG), from ["Reinforcement Learning with a Terminator"](https://url).
 
-### Prerequisites
-This repository uses Backseat Driver
-
 ### Installation
 
 To use Terminator, make sure python3 is installed and pip is up to date. This project was tested using python verison 3.8.
