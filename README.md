@@ -34,7 +34,6 @@ Your file system should be organized as follows.
     src/envs/backseat_driver/build/BackseatDriverTerm_Data
     src/envs/backseat_driver/build/BackseatDriverTerm.x86_64
     src/envs/backseat_driver/build/UnityPlayer.so
-    
 ```
 
 ## Usage
