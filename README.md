@@ -86,7 +86,7 @@ Below you can find a list of arguments you can change
 To cite our paper please use
 
 ```
-@Article{tennenholtz2022terminator,
+@Article{tennenholtz2022reinforcement,
   title={Reinforcement Learning with a Terminator},
   author={Tennenholtz, Guy and Merlis, Nadav and Shani, Lior and Mannor, Shie and Shalit, Uri and Chechik, Gal and Hallak, Assaf and Dalal, Gal},
   journal={arXiv preprint arXiv:2205.15376},
