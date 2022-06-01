@@ -1,14 +1,14 @@
 # Terminator (TermPG)
-#### Open-source codebase for Terminator Policy Gradient (TermPG), from ["Reinforcement Learning with a Terminator"](https://url).
+#### Open-source codebase for Terminator Policy Gradient (TermPG), from ["Reinforcement Learning with a Terminator"](https://arxiv.org/pdf/2205.15376.pdf).
 
 ### Installation
 
-To use Terminator, make sure python3 is installed and pip is up to date. This project was tested using python verison 3.8.
+To use Terminator, make sure python3 is installed and pip is up to date. This project was tested using python version 3.8.
 #### Clone the Repository
 ```bash
     git clone https://github.com/guytenn/Terminator.git
 ```
-It is recommended to install requirements using a virtual environment. To set up a virtual environment this follow this steps
+It is recommended to install requirements using a virtual environment. To set up a virtual environment follow these steps
 ```bash
     cd Terminator/
     python3 -m venv terminator_env
@@ -81,23 +81,15 @@ Below you can find a list of arguments you can change
 | `--use_lstm`                |Use a recurrent policy
 | `--clean_data`              |Will remove all model files in src/data
  
-[//]: # (## Citation)
+## Citation
 
-[//]: # (To cite our paper please use)
+To cite our paper please use
 
-[//]: # ()
-[//]: # (```)
-
-[//]: # (@Article{young19minatar,)
-
-[//]: # (author = {{Young}, Kenny and {Tian}, Tian},)
-
-[//]: # (title = {MinAtar: An Atari-Inspired Testbed for Thorough and Reproducible Reinforcement Learning Experiments},)
-
-[//]: # (journal = {arXiv preprint arXiv:1903.03176},)
-
-[//]: # (year = "2019")
-
-[//]: # (})
-
-[//]: # (```)
+```
+@Article{tennenholtz2022terminator,
+  title={Reinforcement Learning with a Terminator},
+  author={Tennenholtz, Guy and Merlis, Nadav and Shani, Lior and Mannor, Shie and Shalit, Uri and Chechik, Gal and Hallak, Assaf and Dalal, Gal},
+  journal={arXiv preprint arXiv:2205.15376},
+  year={2022}
+}
+```
