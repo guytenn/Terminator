@@ -25,7 +25,7 @@ setup(
     long_description=open('./README.md').read(),
     author='Guy Tennenholtz',
     author_email='guytenn@gmail.com',
-    url='https://arxiv.org/abs/2005.13239',
+    url='https://arxiv.org/abs/2205.15376',
     install_requires=install_requires,
     license='MIT'
 )
