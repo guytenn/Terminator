@@ -1,5 +1,5 @@
 # Terminator (TermPG)
-#### Open-source codebase for Terminator Policy Gradient (TermPG), from ["Reinforcement Learning with a Terminator"](https://arxiv.org/pdf/2205.15376.pdf).
+#### Open-source codebase for Terminator Policy Gradient (TermPG), from ["Reinforcement Learning with a Terminator (Neurips 2022)"](https://arxiv.org/pdf/2205.15376.pdf).
 
 ### Installation
 
